@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing with Dummy API</string>
+    <string name="userId">User ID</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+</resources>
